@@ -10,7 +10,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/rezaAdinepour/Real-Time-Face-Mask-Detection.git
+$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
 ```
 
 2. Change your directory to the cloned repo 
@@ -29,7 +29,7 @@ $ source test/bin/activate
 4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 ```
 $ pip3 install -r requirements.txt
-
+```
 
 ## :bulb: Working
 
@@ -46,3 +46,4 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 3. To detect face masks in real-time video streams type the following command:
 ```
 $ python3 detect_mask_video.py 
+```
