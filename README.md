@@ -41,3 +41,6 @@ $ python3 train_mask_detector.py
 ```
 $ python3 detect_mask_video.py 
 ```
+
+## :key: Results
+![image](Images/1.png)
