@@ -4,6 +4,6 @@
 #### In this project, you can recognize masked faces in real time
 #### I use [MobileNet](https://github.com/chandrikadeb7/Face-Mask-Detection) in this project for create a model of train network.
 
-## Prerequisites
+## :key: Prerequisites
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [see here](https://github.com/rezaAdinepour/Real-Time-Face-Mask-Detection/blob/main/requirements.txt)
 
